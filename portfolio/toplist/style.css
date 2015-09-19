@@ -1,3 +1,9 @@
+*{
+  box-sizing: border-box;
+}
 .description {
-  
+  max-width: 705px;
+}
+.screenshot {
+  max-width: 460px;
 }
